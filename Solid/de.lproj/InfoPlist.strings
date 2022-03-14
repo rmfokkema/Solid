@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Solid
+
+  Created by René Fokkema on 25/07/2021.
+  
+*/
+
+NSLocationWhenInUseUsageDescription = "Die Kompassdrehung wird verwendet um Farben zu ändern.";
+
+NSPhotoLibraryAddUsageDescription = "Die Farbe wird als Bild in Fotos gespeichert.";

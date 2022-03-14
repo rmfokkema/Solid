@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  Solid
+
+  Created by René Fokkema on 25/07/2021.
+  
+*/
+
+"Motion" = "Bewegen";
+
+"Touch" = "Berühren";
+
+"Custom" = "Installieren";
+
+"ShareTitle" = "Teilen";
+
+"ShareMessage" = "Möchten Sie diese Farbe teilen, speichern, oder an Kurzbefehle senden?";
+
+"Save" = "Speichern";
+
+"Share" = "Teilen";
+
+"Shortcut" = "Kurzbefehle";
+
+"Cancel" = "Abbrechen";
+
+"Done" = "Fertig";
+
+"DoneMessage" = "Die Farbe ist als Hintergrundbild eingestellt";

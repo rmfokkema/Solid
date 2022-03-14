@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Solid
+
+  Created by René Fokkema on 25/07/2021.
+  
+*/
+
+NSLocationWhenInUseUsageDescription = "De kompas van je telefoon wordt gebruikt om kleuren te veranderen.";
+
+NSPhotoLibraryAddUsageDescription = "De kleur die je hebt gekozen wordt als afbeelding opgeslagen in je Foto's.";

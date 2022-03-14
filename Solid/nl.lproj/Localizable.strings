@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  Solid
+
+  Created by René Fokkema on 25/07/2021.
+  
+*/
+
+"Motion" = "Bewegen";
+
+"Touch" = "Aanraken";
+
+"Custom" = "Instellen";
+
+"ShareTitle" = "Delen";
+
+"ShareMessage" = "Delen, opslaan, of doorsturen naar een opdracht?";
+
+"Save" = "Opslaan";
+
+"Share" = "Delen";
+
+"Shortcut" = "Opdracht";
+
+"Cancel" = "Annuleer";
+
+"Done" = "Gelukt";
+
+"DoneMessage" = "Je kleur is ingesteld als achtergrond";

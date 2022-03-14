@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Solid
+
+  Created by René Fokkema on 25/07/2021.
+  
+*/
+
+NSLocationWhenInUseUsageDescription = "La boussole est utilisée pour changer les couleurs.";
+
+NSPhotoLibraryAddUsageDescription = "La couleur sera enregistrée dans votre Phototèque.";

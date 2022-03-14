@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  Solid
+
+  Created by René Fokkema on 25/07/2021.
+  
+*/
+
+"Motion" = "Bouger";
+
+"Touch" = "Toucher";
+
+"Custom" = "Régler";
+
+"ShareTitle" = "Couleur choisie";
+
+"ShareMessage" = "Voulez-vous la partager, enregistrer ou l'envoyer au Raccourci?";
+
+"Save" = "Enregistrer";
+
+"Share" = "Partager";
+
+"Shortcut" = "Raccourci";
+
+"Cancel" = "Annuler";
+
+"Done" = "Voilà";
+
+"DoneMessage" = "La couleur est définie comme fond d'écran";

@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Solid
+
+  Created by René Fokkema on 25/07/2021.
+  
+*/
+
+NSLocationWhenInUseUsageDescription = "Your iPhone's compass will be used to change colors.";
+
+NSPhotoLibraryAddUsageDescription = "The color you chose will be saved as image in Photos.";

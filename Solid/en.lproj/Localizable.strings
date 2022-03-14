@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  Solid
+
+  Created by René Fokkema on 25/07/2021.
+  
+*/
+
+"Motion" = "Motion";
+
+"Touch" = "Touch";
+
+"Custom" = "Custom";
+
+"ShareTitle" = "Share";
+
+"ShareMessage" = "Share, save or send to shortcut?";
+
+"Save" = "Save";
+
+"Share" = "Share";
+
+"Shortcut" = "Shortcut";
+
+"Cancel" = "Cancel";
+
+"Done" = "Done";
+
+"DoneMessage" = "Your color has been set as wallpaper";
